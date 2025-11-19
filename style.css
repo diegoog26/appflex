@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+    background-color: #333333;
+}
+
+h1{
+    color: #fff;
+}
+
+.container{
+    text-align: center;
+}
+
+.entrada{
+    width: 80px;
+}
