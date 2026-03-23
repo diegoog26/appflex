@@ -1,11 +1,15 @@
-📱 App Flex (Projeto Simples)
+# 📱 App Flex
 
-Este é um projeto simples desenvolvido durante o curso técnico, com o objetivo de praticar conceitos básicos de desenvolvimento web.
+Projeto simples desenvolvido durante o curso técnico, com o objetivo de praticar conceitos básicos de desenvolvimento web utilizando layout flexível.
 
-🚀 Tecnologias utilizadas
-HTML
-CSS
+# 🧠 Objetivo
+
+Este projeto tem como foco o aprendizado de:
+
+Estruturação com HTML
+Estilização com CSS (especialmente Flexbox)
+Interatividade com JavaScript
+# 🚀 Tecnologias
+HTML5
+CSS3
 JavaScript
-💡 Sobre o projeto
-
-O App Flex é um site simples que simula uma aplicação web, focado no uso de layout com Flexbox e interações básicas com JavaScript.
